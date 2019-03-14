@@ -24,7 +24,7 @@
 **프로젝트 진행 상황에 따라 스터디 조기마감 혹은 지연될 수 있습니다.**
 
 ### 참고 하면 좋은 사이트 목록
-
+* [나만의 웹 크롤러 만들기 시리즈](https://beomi.github.io/gb-crawling/)
 * [CSS 생활코딩](https://opentutorials.org/course/3086)
 * [마크다운 사용법](https://gist.github.com/ninanung/946cd0e2e09bd5a94964ff8b612a9012)
 
