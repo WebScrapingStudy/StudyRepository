@@ -30,5 +30,6 @@
 * [마크다운 사용법](https://gist.github.com/ninanung/946cd0e2e09bd5a94964ff8b612a9012)
 * [동빈나 파이썬 웹 크롤러(Python Web Crawler) 유튜브](https://www.youtube.com/watch?v=kiowbtjDrWo&list=PLRx0vPvlEmdCZ_5prmWXfuMf0lM43BrQU)
 * [Kyeongrok Kim 파이썬 크롤러 만들기 유튜브](https://www.youtube.com/watch?v=PNpS2Id8qyc&list=PLAdQRRy4vtQRzdg7D9n1rkDp9DIeWpBQ9)
+* [초보자들을 위한 웹크롤링 온라인 강의](https://github.com/etilelab/WebCrawlingStudy)
 
 ### Reperence
