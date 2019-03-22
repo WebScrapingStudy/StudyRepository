@@ -7,8 +7,8 @@
 1. 깃허브 사용방법 
   * [지옥에서 온 깃](https://www.youtube.com/watch?v=hFJZwOfme6w&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk) 참고만 하세요!(모르는 부분있을 때 보면 좋아요)
   * 깃 허브로 질문하기   
-  ![질문방법1](./전호범/git1.png)
-  ![질문방법2](./전호범/git2.png)
+  ![질문방법1](./전호범/git1.PNG)
+  ![질문방법2](./전호범/git2.PNG)
   
   
   
