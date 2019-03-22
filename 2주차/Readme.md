@@ -1,22 +1,22 @@
-### 2ÁÖÂ÷ ½ºÅÍµð
+### 2ì£¼ì°¨ ìŠ¤í„°ë””
 
-#### °úÁ¦ 
- * ÀÚ½ÅÀÌ Å¸°ÙÀ¸·Î ÇÑ Á¤Àû À¥ÆäÀÌÁö ½ºÅ©·¡ÇÎ ÇÏ±â
- * ¸¶À½¿¡ µå´Â »çÀÌÆ®°¡ ¾ø´Ù¸é [Å©·Ñ¸µ µµÀå](https://askdjango.github.io/)¿¡¼­ µµÀü
-#### Âü°í »çÀÌÆ®
-1. ±êÇãºê »ç¿ë¹æ¹ý 
-  * [Áö¿Á¿¡¼­ ¿Â ±ê](https://www.youtube.com/watch?v=hFJZwOfme6w&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk) Âü°í¸¸ ÇÏ¼¼¿ä!(¸ð¸£´Â ºÎºÐÀÖÀ» ¶§ º¸¸é ÁÁ¾Æ¿ä)
-  * ±ê Çãºê·Î Áú¹®ÇÏ±â   
-  [Áú¹®¹æ¹ý1](./ÀüÈ£¹ü/git1.png)
-  [Áú¹®¹æ¹ý2](./ÀüÈ£¹ü/git2.png)
+#### ê³¼ì œ 
+ * ìžì‹ ì´ íƒ€ê²Ÿìœ¼ë¡œ í•œ ì •ì  ì›¹íŽ˜ì´ì§€ ìŠ¤í¬ëž˜í•‘ í•˜ê¸°
+ * ë§ˆìŒì— ë“œëŠ” ì‚¬ì´íŠ¸ê°€ ì—†ë‹¤ë©´ [í¬ë¡¤ë§ ë„ìž¥](https://askdjango.github.io/)ì—ì„œ Level 1ë„ì „
+#### ì°¸ê³  ì‚¬ì´íŠ¸
+1. ê¹ƒí—ˆë¸Œ ì‚¬ìš©ë°©ë²• 
+  * [ì§€ì˜¥ì—ì„œ ì˜¨ ê¹ƒ](https://www.youtube.com/watch?v=hFJZwOfme6w&list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk) ì°¸ê³ ë§Œ í•˜ì„¸ìš”!(ëª¨ë¥´ëŠ” ë¶€ë¶„ìžˆì„ ë•Œ ë³´ë©´ ì¢‹ì•„ìš”)
+  * ê¹ƒ í—ˆë¸Œë¡œ ì§ˆë¬¸í•˜ê¸°   
+  ![ì§ˆë¬¸ë°©ë²•1](./ì „í˜¸ë²”/git1.png)
+  ![ì§ˆë¬¸ë°©ë²•2](./ì „í˜¸ë²”/git2.png)
   
   
   
-2. À¥ ±âÃÊ ÇÐ½ÀÇÏ±â
+2. ì›¹ ê¸°ì´ˆ í•™ìŠµí•˜ê¸°
   * [w3schools HTML Tutorial](https://www.w3schools.com/html/) 
   
   
   
-3. Á¤Àû À¥ÆäÀÌÁö ½ºÅ©·¡ÇÎÇÏ±â
-  * [¶óÀÌºê·¯¸® »ç¿ë¹æ¹ý Kyeongrok Kim](https://www.youtube.com/watch?v=iGWIkXKs-ZM&list=PLAdQRRy4vtQRzdg7D9n1rkDp9DIeWpBQ9&index=9) (9°­ºÎÅÍ 14°­±îÁö ÀÔ´Ï´Ù °°ÀÌ µû¶óÇØº¸¾Æ¿ä!)
-  * [Á¤Àû À¥ÆäÀÌÁö ½ºÅ©·¡ÇÎ ÀÌÅÂ°æ](https://www.youtube.com/watch?v=QLf-pDoJvjQ&feature=youtu.be)
+3. ì •ì  ì›¹íŽ˜ì´ì§€ ìŠ¤í¬ëž˜í•‘í•˜ê¸°
+  * [ë¼ì´ë¸ŒëŸ¬ë¦¬ ì‚¬ìš©ë°©ë²• Kyeongrok Kim](https://www.youtube.com/watch?v=iGWIkXKs-ZM&list=PLAdQRRy4vtQRzdg7D9n1rkDp9DIeWpBQ9&index=9) (9ê°•ë¶€í„° 14ê°•ê¹Œì§€ ìž…ë‹ˆë‹¤ ê°™ì´ ë”°ë¼í•´ë³´ì•„ìš”!)
+  * [ì •ì  ì›¹íŽ˜ì´ì§€ ìŠ¤í¬ëž˜í•‘ ì´íƒœê²½](https://www.youtube.com/watch?v=QLf-pDoJvjQ&feature=youtu.be)
