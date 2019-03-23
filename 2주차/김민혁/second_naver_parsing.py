@@ -9,7 +9,7 @@ bs_obj=BeautifulSoup(html,"html.parser")
 
 ul=bs_obj.find("ul", {"class":"an_l"})
 
-lis= ul.findAll("li")
+lis= ul.find_all("li")
 print(lis)
 for li in lis:
 	a_tag=li.find("a")
