@@ -10,10 +10,13 @@
 #   git rm -r .ipynb_checkpoints/
 #
 
-### vscode ###
 
-.json*
-
+### Code ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
 ### Linux ###
 *~
