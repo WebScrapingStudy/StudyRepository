@@ -17,8 +17,6 @@
 
 """18강 네이버 API Token발급받기 """
 # App Name : Test
-# Client ID : OHUByoL6IVTdBsDaggA8
-# Client PW : oDOIg93bgc
 
 """
 import os
