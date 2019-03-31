@@ -24,8 +24,8 @@
 import os
 import sys
 import urllib.request
-client_id = "OHUByoL6IVTdBsDaggA8"
-client_secret = "oDOIg93bgc"
+client_id = ""
+client_secret = ""
 encText = urllib.parse.quote("IBK기업은행")
 url = "https://openapi.naver.com/v1/search/blog?query=" + encText # json 결과
 # url = "https://openapi.naver.com/v1/search/blog.xml?query=" + encText # xml 결과
@@ -47,8 +47,8 @@ from urllib.parse import urlparse
 keyword = "방향제"
 url = "https://openapi.naver.com/v1/search/blog?query=" + keyword # json 결과
 result = requests.get(urlparse(url).geturl(), 
-headers ={"X-Naver-Client-Id" :"OHUByoL6IVTdBsDaggA8",
-          "X-Naver-Client-Secret":"oDOIg93bgc"})
+headers ={"X-Naver-Client-Id" :"",
+          "X-Naver-Client-Secret":""})
 
 json_obj = result.json()
 print(json_obj)
