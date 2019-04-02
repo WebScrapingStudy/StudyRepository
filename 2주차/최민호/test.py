@@ -10,7 +10,7 @@ html = browser.page_source
 soup = BeautifulSoup(html,'lxml')
 
 herolist = soup.findAll("div",{"class":"champion-index__champion-list"})
-titles = tables.findAll("td",{"class":"left"})
+titles = herolist.findAll("td",{"class":"left"})
 
 for title in titles:
     a_tag = title.find("a").text

@@ -20,12 +20,12 @@
 # Client ID : OHUByoL6IVTdBsDaggA8
 # Client PW : oDOIg93bgc
 
-"""
+
 import os
 import sys
 import urllib.request
-client_id = "OHUByoL6IVTdBsDaggA8"
-client_secret = "oDOIg93bgc"
+client_id = "UT1da6xBXa7fCjltgysw"
+client_secret = "lgopUhVpqo"
 encText = urllib.parse.quote("IBK기업은행")
 url = "https://openapi.naver.com/v1/search/blog?query=" + encText # json 결과
 # url = "https://openapi.naver.com/v1/search/blog.xml?query=" + encText # xml 결과
@@ -39,7 +39,7 @@ if(rescode==200):
     print(response_body.decode('utf-8'))
 else:
     print("Error Code:" + rescode)
-    """
+
 """
 import requests
 from urllib.parse import urlparse
