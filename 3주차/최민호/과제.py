@@ -13,10 +13,10 @@ r = open('./token.txt', mode='rt', encoding='utf-8')
 client_id = r.read(20)
 client_secret = r.read(10)
 
-print(client_id)
-print(client_secret)
-print(len(client_id))
-print(len(client_secret))
+#print(client_id)
+#print(client_secret)
+#print(len(client_id))
+#print(len(client_secret))
 encText = urllib.parse.quote("부경대 카페")
 url = "https://openapi.naver.com/v1/search/blog?query=" + encText # json 결과
 #url = "https://openapi.naver.com/v1/search/blog.xml?query=" +search

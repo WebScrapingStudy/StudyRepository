@@ -17,18 +17,14 @@
 
 """18강 네이버 API Token발급받기 """
 # App Name : Test
-
-
 import os
 import sys
 import urllib.request
-<<<<<<< HEAD
+import requests
 client_id = "UT1da6xBXa7fCjltgysw"
 client_secret = "lgopUhVpqo"
-=======
-client_id = ""
-client_secret = ""
->>>>>>> 628be50e9cb03a4166d7a016d333a42bf0c487c1
+#client_id = ""
+#client_secret = ""
 encText = urllib.parse.quote("IBK기업은행")
 url = "https://openapi.naver.com/v1/search/blog?query=" + encText # json 결과
 # url = "https://openapi.naver.com/v1/search/blog.xml?query=" + encText # xml 결과
