@@ -17,8 +17,6 @@
 
 """18강 네이버 API Token발급받기 """
 # App Name : Test
-
-
 import os
 import sys
 import urllib.request
