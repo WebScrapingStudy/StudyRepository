@@ -1,0 +1,101 @@
+{
+"lastBuildDate": "Thu, 04 Apr 2019 16:06:10 +0900",
+"total": 208440,
+"start": 1,
+"display": 10,
+"items": [
+{
+"title": "<b>정보보안</b>전문가 되볼까요?",
+"link": "https://blog.naver.com/cromgod?Redirect=Log&amp;logNo=221487107331",
+"description": "그러던 중, 우연히 친구의 소개로 <b>정보보안</b>전문가라는 직종을 알게 되었어요. 처음에는 그게 뭔가? 라는... 강사님의 정보시스템 강의에서 보안위협에 따른 발생빈도를 파악하고 예상 피해규모를 측정함으로써... ",
+"bloggername": "시에나초코의 colorfullife",
+"bloggerlink": "https://blog.naver.com/cromgod",
+"postdate": "20190313"
+
+},
+{
+"title": "<b>정보보안</b>기사 <b>정보보안</b>산업기사 응시자격! 빠르게 만족하자!",
+"link": "https://blog.naver.com/young1ju?Redirect=Log&amp;logNo=221500647272",
+"description": "보통적으로 시스템이나 솔루션 개발 및 관리 정보등에 대한 보안업무를 수행하기도하죠! 얼마전에 실제 학점은행제를 통해서 <b>정보보안</b>기사 시험조건을 맞춘 학습자님께서 실제 후기를 남겨주셨거든요~! 제가... ",
+"bloggername": "홀로떠나는여행",
+"bloggerlink": "https://blog.naver.com/young1ju",
+"postdate": "20190330"
+
+},
+{
+"title": "<b>정보보안</b>학과 취업도 거뜬!",
+"link": "https://blog.naver.com/temp0202?Redirect=Log&amp;logNo=221494723952",
+"description": "서버 보안에 관심 있는 학생들이 선택해서 수업 2학년 컴퓨터보안(리버스 엔지니어링) 1,윈도우 Forensics... 한국IT - <b>정보보안</b>학과 <b>정보보안</b>학과, 정보보호학과, 특성화 IT전문학교, 포렌식,관제센터 최첨단 시설... ",
+"bloggername": "커피를즐기는생활",
+"bloggerlink": "https://blog.naver.com/temp0202",
+"postdate": "20190322"
+
+},
+{
+"title": "<b>정보보안</b>전문가 하나씩 알아보기",
+"link": "https://blog.naver.com/racerf1?Redirect=Log&amp;logNo=221472028101",
+"description": "최근 워낙 기술의 발전 속도가 빠르고 정 보화된 본인만의 지식이 세상을 지배하는 자본과 결합하는... 서두에 말씀드렸던 것처럼 저는 <b>정보보안</b>전문가가 꿈이었기 때문에, 가장 관심이 갔던 해킹 보 안 전 문가... ",
+"bloggername": "까칠아빠와 맹랑아들",
+"bloggerlink": "https://blog.naver.com/racerf1",
+"postdate": "20190222"
+
+},
+{
+"title": "학점은행제 정보보호학! 이제는 <b>정보보안</b>전문가로 활동중입니다..",
+"link": "https://blog.naver.com/haruno16?Redirect=Log&amp;logNo=221493164793",
+"description": "학점은행제 정보보호학 전공으로 <b>정보보안</b>전문가 직업을 선택하신 분의 이야기를 들어볼까요?... 정보보호학은 말 그대로 정보를 보안하고, 보호하는 전공 이더라구요. 그래서 저는 이왕 하는 직업 좋은 일을... ",
+"bloggername": "배드보이 김첨지의 럭키데이",
+"bloggerlink": "https://blog.naver.com/haruno16",
+"postdate": "20190320"
+
+},
+{
+"title": "<b>정보보안</b>기사 <b>정보보안</b>산업기사 응시자격만족하고 합격률 높이자",
+"link": "https://blog.naver.com/jubi1004?Redirect=Log&amp;logNo=221457295308",
+"description": "특히, 정부나, 은행에서는 철저한 보안처리를 필요로 하고 있는데요 오늘은 그러한 정보를 보호하는 일을 할수 있는 자격증인 <b>정보보안</b>기사 비전공자시기에 <b>정보보안</b>기사 응시자격을 갖추기 위해 연락을 주신... ",
+"bloggername": "하얀짐승백수",
+"bloggerlink": "https://blog.naver.com/jubi1004",
+"postdate": "20190206"
+
+},
+{
+"title": "<b>정보보안</b>학원 굳이 따져 보자면요",
+"link": "https://blog.naver.com/jjkbw1234?Redirect=Log&amp;logNo=221488832249",
+"description": "부터 <b>정보보안</b>쪽으로 정말 세심하게 수업을 받을 거라는 생각을 했어요. 근데 지금 졸업반이 되고 나서 보니 프로그래밍 언어와 보안의 중요성은 알겠는데 이걸 막상 어떻게 어떤 분야에서 활용하고 제가... ",
+"bloggername": "달콤한, 삐삐롱스타킹!",
+"bloggerlink": "https://blog.naver.com/jjkbw1234",
+"postdate": "20190315"
+
+},
+{
+"title": "<b>정보보안</b>학과 높은 취업률을 자랑합니다!",
+"link": "https://blog.naver.com/honaudo444?Redirect=Log&amp;logNo=221464724260",
+"description": "이 과에서는 이렇게 해킹되거나 유출 되면 안 되는 정보들을 지켜주는 프로그램과 기술을 배우는... <b>정보보안</b>학과는 융합보안, 컴퓨터보안, 해킹바이러스, 디지털 포렌식으로 나뉜 전공으로 4차 산업시대에... ",
+"bloggername": "이기자의 JOB NEWS",
+"bloggerlink": "https://blog.naver.com/honaudo444",
+"postdate": "20190213"
+
+},
+{
+"title": "<b>정보보안</b>기사 <b>정보보안</b>산업기사 응시자격 / 화이트해커... ",
+"link": "https://blog.naver.com/jmk852?Redirect=Log&amp;logNo=221503886357",
+"description": "찾아보니까 IT쪽으로 자격증이 좀 많더라구요 정보처리기사 <b>정보보안</b>기사 정보통신기사 뭐 여러가지가 있던데 저는 <b>정보보안</b>기사를 따고 싶어서 이것 저것 알아봤는데 응시자격이 필요하더라구요 근데 저는... ",
+"bloggername": "TWO 올어바웃스펙업",
+"bloggerlink": "https://blog.naver.com/jmk852",
+"postdate": "20190402"
+
+},
+{
+"title": "[대우직업능력개발원] <b>정보보안</b>전문가 양성과정 훈련생의... ",
+"link": "https://blog.naver.com/dwittt?Redirect=Log&amp;logNo=221503644429",
+"description": "오늘은 <b>정보보안</b>전문가 양성과정을 수료하는 훈련생의 진심어린 훈련 수강 후기가 있어... 9개월만에 완전히 습득할 정도로 <b>정보보안</b>은 만만한 분야가 아니기 때문입니다. 매일매일 꾸준하게 배운 것을... ",
+"bloggername": "대우직업능력개발원",
+"bloggerlink": "https://blog.naver.com/dwittt",
+"postdate": "20190402"
+
+}
+]
+}
+
+
+
