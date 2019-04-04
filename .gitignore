@@ -262,4 +262,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#Naver API Token
+token.txt
+
 # End of https://www.gitignore.io/api/linux,python,windows,pycharm+all,jupyternotebook
