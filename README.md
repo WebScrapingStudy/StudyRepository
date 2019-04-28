@@ -16,7 +16,7 @@
 |2019-03-21    | [1주차](https://github.com/WebScrapingStudy/StudyRepository/tree/master/1%EC%A3%BC%EC%B0%A8). 파이썬 환경세팅. 깃허브 연동. 파이썬 기초. |     
 |2019-03-28    | [2주차](https://github.com/WebScrapingStudy/StudyRepository/tree/master/2%EC%A3%BC%EC%B0%A8). 깃허브 사용방법. Beautifulsoup 기초. / 정적 페이지 파싱.|  
 |2019-04-04    | [3주차](https://github.com/WebScrapingStudy/StudyRepository/tree/master/3%EC%A3%BC%EC%B0%A8). Beautifulsoup 기초 / 네이버 뉴스 크롤링. |
-|2019-05-02    | 4주차. Selenium 기초. 프로젝트 킥오프. |
+|2019-05-02    | [4주차](https://github.com/WebScrapingStudy/StudyRepository/tree/master/4주차). Selenium 기초. 프로젝트 킥오프. |
 |2019-05-09    | 5주차. 프로젝트 진행 및 코드 리뷰 |
 |2019-05-16    | 6주차. 프로젝트 진행 및 코드 리뷰 |
 |2019-05-23    | 7주차. 프로젝트 진행 및 코드 리뷰 |
