@@ -191,5 +191,19 @@ class boann(object):
         b = self.base_url + news[1].a.attrs.get('href').split('&')[0]
         c = self.base_url + news[2].a.attrs.get('href').split('&')[0]
         return a + "\n" + b + "\n" + c
-
-print(boann().weekend())
+    def search(self,keyword):
+        """
+        검색
+        :return:
+        """
+        from urllib import parse
+        keyword = parse.quote(keyword,encoding='EUC-KR')
+        print(keyword)
+        url = "search/news_list.asp?search=key_word&find="+keyword
+        res = requests.get(self.base_url + url)
+        soup = BeautifulSoup(res.text, "html.parser")
+        news = soup.find_all("div", {"class": "news_list"})
+        a = self.base_url + news[0].a.attrs.get('href').split('&')[0]
+        b = self.base_url + news[1].a.attrs.get('href').split('&')[0]
+        c = self.base_url + news[2].a.attrs.get('href').split('&')[0]
+        return a + "\n" + b + "\n" + c
