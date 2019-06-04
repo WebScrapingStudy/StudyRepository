@@ -16,3 +16,6 @@
 * [BotHub.Studio](https://medium.com/bothub-studio-ko)
 * [LINE Developers](https://developers.line.biz/)
 * [네이버 라인 파이썬 샘플코드](https://github.com/line/line-bot-sdk-python)
+
+### 친구추가 QR 코드
+![QR](LinebotQR.png)
