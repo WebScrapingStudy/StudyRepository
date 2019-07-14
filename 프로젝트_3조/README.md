@@ -14,3 +14,4 @@
 |2019-06-25 ~    | 광고건너뛰기 버튼 자동 클릭을 여러번 수행할 수 있는 프로그램 코딩 |
 
 ### Reperence
+<https://www.youtube.com/watch?v=TWb4xTwR0I8>
